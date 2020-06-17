@@ -1623,7 +1623,7 @@ Service Info: OS: Linux; Device: webcam; CPE: cpe:/h:avtech:avn801, cpe:/o:linux
 
 </details>
 
-<details><summary>192.168.20.9/summary>
+<details><summary>192.168.20.9</summary>
 
 ```
 Nmap scan report for 192.168.20.9
@@ -1649,3 +1649,5 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Sat May 30 14:35:56 2020 -- 5 IP addresses (5 hosts up) scanned in 320.88 seconds
 
 ```
+
+</details>
