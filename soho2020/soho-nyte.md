@@ -46,7 +46,7 @@ Scans of two networks that were reached have been added to the end of the write-
 
 Network Scans:
 
-192.168.10.0:
+<details><summary>192.168.10.0</summary>
 ```
 # Nmap 7.80 scan initiated Sat May 30 11:14:21 2020 as: nmap -sV -A -oN 10\_net\_scan 192.168.10.2-99
 Nmap scan report for 192.168.10.4
@@ -737,6 +737,11 @@ Host script results:
 
 |\_ start\_date: N/A
 ```
+</details>
+
+
+
+
 
 ```
 Nmap scan report for 192.168.10.6
