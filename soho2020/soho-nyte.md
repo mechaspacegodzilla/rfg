@@ -1365,7 +1365,7 @@ Host script results:
 
 </details>
 
-<details><summary>192.168.10.18/summary>
+<details><summary>192.168.10.18</summary>
 
 ```
 Host is up (0.030s latency).
