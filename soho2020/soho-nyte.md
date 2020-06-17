@@ -1509,7 +1509,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 </details>
 
-<details><summary>192.168.20.2/summary>
+<details><summary>192.168.20.2</summary>
 
 ```
 Nmap scan report for 192.168.20.2
@@ -1537,7 +1537,7 @@ Service Info: Host: WDMYCLOUDEX4; OSs: Unix, Linux; CPE: cpe:/o:linux:linux\_ker
 
 </details>
 
-<details><summary>192.168.20.3/summary>
+<details><summary>192.168.20.3</summary>
 
 ```
 Nmap scan report for 192.168.20.3
@@ -1579,7 +1579,7 @@ Service Info: Hosts: NAS10CA01, 192.168.20.3; OSs: Linux 3.4.6, Linux; Device: s
 
 </details>
 
-<details><summary>192.168.20.5/summary>
+<details><summary>192.168.20.5</summary>
 
 ```
 Nmap scan report for 192.168.20.5
@@ -1603,7 +1603,7 @@ Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux\_kernel
 
 </details>
 
-<details><summary>192.168.20.7/summary>
+<details><summary>192.168.20.7</summary>
 
 ```
 Nmap scan report for 192.168.20.7
