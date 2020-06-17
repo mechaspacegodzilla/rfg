@@ -233,9 +233,14 @@ Host script results:
 
 |\_ start\_date: N/A
 ```
-```
-Nmap scan report for 192.168.10.5
 
+</details>
+
+
+
+<details><summary>192.168.10.5</summary
+
+```
 Host is up (0.031s latency).
 
 Not shown: 988 closed ports
@@ -745,9 +750,10 @@ Host script results:
 
 
 
-```
-Nmap scan report for 192.168.10.6
 
+<details><summary>192.168.10.6</summary>
+
+```
 Host is up (0.031s latency).
 
 Not shown: 990 closed ports
@@ -1001,9 +1007,15 @@ Host script results:
 |\_smb2-time: Protocol negotiation failed (SMB2)
 ```
 
-```
-Nmap scan report for 192.168.10.7
+</details>
 
+
+
+
+<details><summary>192.168.10.7</summary>
+
+
+```
 Host is up (0.031s latency).
 
 Not shown: 997 closed ports
@@ -1248,9 +1260,11 @@ Service Info: Device: webcam
 
 ```
 
-```
-Nmap scan report for 192.168.10.8
+</details>
 
+<details><summary>192.168.10.8</summary>
+
+```
 Host is up (0.028s latency).
 
 Not shown: 991 closed ports
@@ -1347,8 +1361,13 @@ Host script results:
 
 |\_smb2-time: Protocol negotiation failed (SMB2)
 
-Nmap scan report for 192.168.10.18
+```
 
+</details>
+
+<details><summary>192.168.10.18/summary>
+
+```
 Host is up (0.030s latency).
 
 Not shown: 989 closed ports
@@ -1488,6 +1507,10 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap 7.80 scan initiated Sat May 30 14:30:35 2020 as: nmap -sV -oN 20\_net\_scan 192.168.20.2,3,5,7,9
 ```
 
+</details>
+
+<details><summary>192.168.20.2/summary>
+
 ```
 Nmap scan report for 192.168.20.2
 
@@ -1511,6 +1534,10 @@ PORT STATE SERVICE VERSION
 
 Service Info: Host: WDMYCLOUDEX4; OSs: Unix, Linux; CPE: cpe:/o:linux:linux\_kernel:3.2.40
 ```
+
+</details>
+
+<details><summary>192.168.20.3/summary>
 
 ```
 Nmap scan report for 192.168.20.3
@@ -1550,6 +1577,10 @@ PORT STATE SERVICE VERSION
 Service Info: Hosts: NAS10CA01, 192.168.20.3; OSs: Linux 3.4.6, Linux; Device: storage-misc; CPE: cpe:/o:linux:linux\_kernel:3.4.6, cpe:/o:linux:linux\_kernel:3.19.8
 ```
 
+</details>
+
+<details><summary>192.168.20.5/summary>
+
 ```
 Nmap scan report for 192.168.20.5
 
@@ -1570,6 +1601,10 @@ PORT STATE SERVICE VERSION
 Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux\_kernel
 ```
 
+</details>
+
+<details><summary>192.168.20.7/summary>
+
 ```
 Nmap scan report for 192.168.20.7
 
@@ -1585,6 +1620,10 @@ PORT STATE SERVICE VERSION
 
 Service Info: OS: Linux; Device: webcam; CPE: cpe:/h:avtech:avn801, cpe:/o:linux:linux\_kernel
 ```
+
+</details>
+
+<details><summary>192.168.20.9/summary>
 
 ```
 Nmap scan report for 192.168.20.9
