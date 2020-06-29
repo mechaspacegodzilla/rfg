@@ -1,0 +1,1 @@
+cat fail2ban.log | grep "Ban" | cut -d " " -f7 | sort --unique
